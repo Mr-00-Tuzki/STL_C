@@ -18,7 +18,7 @@ Syntax: vector<data_type> vector_name;
 
 C++ Example:
 
-#include <iostream>  
+#include<iostream>  
 #include<vector>  
   
 using namespace std;  
