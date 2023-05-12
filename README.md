@@ -74,6 +74,8 @@ In the first vector, we put five elements which are: 1, 2, 3, 4, 5.
 In the second vector, we put three elements which are: 6, 7, 8.
 
 In the third vector, we put four elements which are: 9,10,11,12.
+  
+  Contributed by Tushar Kumar
 
 In the fourth vector, we put two elements which are: 13 and 14.
 
